@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PersonManagement.Rebository/1.0.0": {
+        "dependencies": {
+          "PersonManagement.Model": "1.0.0"
+        },
+        "runtime": {
+          "PersonManagement.Rebository.dll": {}
+        }
+      },
+      "PersonManagement.Model/1.0.0": {
+        "runtime": {
+          "PersonManagement.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PersonManagement.Rebository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PersonManagement.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

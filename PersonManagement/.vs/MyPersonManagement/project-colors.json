@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "90617505-f36a-45f5-b124-329f22ad55e9": {
+      "ProjectGuid": "90617505-f36a-45f5-b124-329f22ad55e9",
+      "DisplayName": "MyPersonManagement",
+      "ColorIndex": 0
+    },
+    "4ae3ac45-5efd-4eae-aa2d-7eaf87019afb": {
+      "ProjectGuid": "4ae3ac45-5efd-4eae-aa2d-7eaf87019afb",
+      "DisplayName": "PersonService",
+      "ColorIndex": 1
+    },
+    "7570ac34-61cb-4121-bc11-3a9cd154f04c": {
+      "ProjectGuid": "7570ac34-61cb-4121-bc11-3a9cd154f04c",
+      "DisplayName": "PersonManagement.Model",
+      "ColorIndex": 2
+    },
+    "bedd2988-4ec6-4439-aba2-58c13d5225ca": {
+      "ProjectGuid": "bedd2988-4ec6-4439-aba2-58c13d5225ca",
+      "DisplayName": "PersonManagement.ServiceRebo",
+      "ColorIndex": 3
+    },
+    "e8256352-9cef-4989-945f-fa92d0f11bca": {
+      "ProjectGuid": "e8256352-9cef-4989-945f-fa92d0f11bca",
+      "DisplayName": "PersonManagement.Rebository",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "705a9336-b042-464f-9641-03b0a3efc2ab": {
+      "ProjectGuid": "705a9336-b042-464f-9641-03b0a3efc2ab",
+      "DisplayName": "PersonManagment.PersistenceDB",
+      "ColorIndex": 5
+    },
+    "326d4724-6604-4731-ab0e-a3ca1e792cc1": {
+      "ProjectGuid": "326d4724-6604-4731-ab0e-a3ca1e792cc1",
+      "DisplayName": "Person.EfService",
+      "ColorIndex": 6
+    },
+    "169685a5-71c8-4727-9c59-dcac46b565f1": {
+      "ProjectGuid": "169685a5-71c8-4727-9c59-dcac46b565f1",
+      "DisplayName": "Person.EfServices",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.Rebository\bin\Debug\net5.0\PersonManagement.Rebository.deps.json
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.Rebository\bin\Debug\net5.0\PersonManagement.Rebository.dll
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.Rebository\bin\Debug\net5.0\ref\PersonManagement.Rebository.dll
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.Rebository\bin\Debug\net5.0\PersonManagement.Rebository.pdb
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.Rebository\bin\Debug\net5.0\PersonManagement.Model.dll
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.Rebository\bin\Debug\net5.0\PersonManagement.Model.pdb
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.Rebository\obj\Debug\net5.0\PersonManagement.Rebository.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.Rebository\obj\Debug\net5.0\PersonManagement.Rebository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.Rebository\obj\Debug\net5.0\PersonManagement.Rebository.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.Rebository\obj\Debug\net5.0\PersonManagement.Rebository.AssemblyInfo.cs
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.Rebository\obj\Debug\net5.0\PersonManagement.Rebository.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.Rebository\obj\Debug\net5.0\PersonManagement.Rebository.csproj.CopyComplete
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.Rebository\obj\Debug\net5.0\PersonManagement.Rebository.dll
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.Rebository\obj\Debug\net5.0\ref\PersonManagement.Rebository.dll
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.Rebository\obj\Debug\net5.0\PersonManagement.Rebository.pdb

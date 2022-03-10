@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\MyPersonManagement\PersonService\bin\Debug\net5.0\PersonService.deps.json
+C:\Users\user\source\repos\MyPersonManagement\PersonService\bin\Debug\net5.0\PersonService.dll
+C:\Users\user\source\repos\MyPersonManagement\PersonService\bin\Debug\net5.0\ref\PersonService.dll
+C:\Users\user\source\repos\MyPersonManagement\PersonService\bin\Debug\net5.0\PersonService.pdb
+C:\Users\user\source\repos\MyPersonManagement\PersonService\obj\Debug\net5.0\PersonService.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MyPersonManagement\PersonService\obj\Debug\net5.0\PersonService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MyPersonManagement\PersonService\obj\Debug\net5.0\PersonService.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MyPersonManagement\PersonService\obj\Debug\net5.0\PersonService.AssemblyInfo.cs
+C:\Users\user\source\repos\MyPersonManagement\PersonService\obj\Debug\net5.0\PersonService.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyPersonManagement\PersonService\obj\Debug\net5.0\PersonService.dll
+C:\Users\user\source\repos\MyPersonManagement\PersonService\obj\Debug\net5.0\ref\PersonService.dll
+C:\Users\user\source\repos\MyPersonManagement\PersonService\obj\Debug\net5.0\PersonService.pdb
+C:\Users\user\source\repos\MyPersonManagement\PersonService\bin\Debug\net5.0\PersonManagement.Model.dll
+C:\Users\user\source\repos\MyPersonManagement\PersonService\bin\Debug\net5.0\PersonManagement.Rebository.dll
+C:\Users\user\source\repos\MyPersonManagement\PersonService\bin\Debug\net5.0\PersonManagement.Rebository.pdb
+C:\Users\user\source\repos\MyPersonManagement\PersonService\bin\Debug\net5.0\PersonManagement.Model.pdb
+C:\Users\user\source\repos\MyPersonManagement\PersonService\obj\Debug\net5.0\PersonService.csproj.CopyComplete

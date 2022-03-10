@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.ServiceRebo\bin\Debug\net5.0\PersonManagement.ServiceRebo.deps.json
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.ServiceRebo\bin\Debug\net5.0\PersonManagement.ServiceRebo.dll
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.ServiceRebo\bin\Debug\net5.0\ref\PersonManagement.ServiceRebo.dll
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.ServiceRebo\bin\Debug\net5.0\PersonManagement.ServiceRebo.pdb
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.ServiceRebo\bin\Debug\net5.0\PersonManagement.Model.dll
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.ServiceRebo\bin\Debug\net5.0\PersonManagement.Rebository.dll
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.ServiceRebo\bin\Debug\net5.0\PersonManagement.Rebository.pdb
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.ServiceRebo\bin\Debug\net5.0\PersonManagement.Model.pdb
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.ServiceRebo\obj\Debug\net5.0\PersonManagement.ServiceRebo.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.ServiceRebo\obj\Debug\net5.0\PersonManagement.ServiceRebo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.ServiceRebo\obj\Debug\net5.0\PersonManagement.ServiceRebo.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.ServiceRebo\obj\Debug\net5.0\PersonManagement.ServiceRebo.AssemblyInfo.cs
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.ServiceRebo\obj\Debug\net5.0\PersonManagement.ServiceRebo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.ServiceRebo\obj\Debug\net5.0\PersonManagement.ServiceRebo.csproj.CopyComplete
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.ServiceRebo\obj\Debug\net5.0\PersonManagement.ServiceRebo.dll
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.ServiceRebo\obj\Debug\net5.0\ref\PersonManagement.ServiceRebo.dll
+C:\Users\user\source\repos\MyPersonManagement\PersonManagement.ServiceRebo\obj\Debug\net5.0\PersonManagement.ServiceRebo.pdb

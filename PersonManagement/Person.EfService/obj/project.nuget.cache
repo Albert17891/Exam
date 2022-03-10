@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "j8QD9Z7fZgjvGOZ61pmSG1G6N7fgPITQ5Zilp0ZFNzFt+Gl/Il0gGK11wAhPooxSiZfl5a9plNPDNhtzDwvzng==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\MyPersonManagement\\Person.EfService\\Person.EfService.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project PersonManagement.Rebository is not compatible with netcoreapp3.1 (.NETCoreApp,Version=v3.1). Project PersonManagement.Rebository supports: net5.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "PersonManagement.Rebository",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
