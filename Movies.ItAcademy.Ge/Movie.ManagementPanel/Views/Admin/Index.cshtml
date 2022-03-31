@@ -1,0 +1,82 @@
+﻿@model IEnumerable<Movies.ManagementPanel.Models.Movie.DTO.MovieActivateDTO>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Activate Movie</h1>                     <a asp-action="GetArciveMovie">Arcive</a>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+              <h6>სურათი</h6>
+            </th>
+            <th>
+                <h6> სახელი</h6>
+            </th>
+            <th>
+                 <h6>ჟანრი</h6>
+            </th>
+            <th>
+                <h6>რეჟისორი</h6>
+            </th>
+            <th>
+                <h6>მსახიობები</h6>
+            </th>
+            <th>
+                <h6>დაწღების დრო</h6>
+            </th>
+            <th>
+                <h6>ხანგრძლივობა</h6>
+            </th>
+            <th>
+               <h6>მოკლე აღწერა</h6>
+            </th>
+            <th>
+                <h6>აქტიურია თუ არა</h6>
+            </th>
+            
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                <img src="@item.Image" alt="sample" width="150" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Genre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Director)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Actors)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StartTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Duration)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Story)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsActive)
+            </td>
+            
+            <td>
+                @Html.ActionLink("Activate Movie", "Activate", new {  id=item.Id })               
+                
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

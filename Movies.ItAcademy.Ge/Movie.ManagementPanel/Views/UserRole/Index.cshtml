@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Movies.ManagementPanel.Models.UserRolesModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Manage Roles</h1>
+
+<p>
+    @*<a asp-action="Create">Create New</a>*@
+     <a class="btn btn-primary" asp-controller="Home" asp-action="Index">Back</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            <th>
+                 @Html.DisplayNameFor(model => model.Roles)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td>
+                    @{
+                       var roles= string.Join(" , ", item.Roles.ToList());
+                    }
+              @Html.DisplayFor(modelItem=>roles)
+            </td>
+            <td>
+                 <a class="btn btn-primary" asp-controller="UserRole" asp-action="Manage" asp-route-userId="@item.Id">Manage Roles</a>
+                
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

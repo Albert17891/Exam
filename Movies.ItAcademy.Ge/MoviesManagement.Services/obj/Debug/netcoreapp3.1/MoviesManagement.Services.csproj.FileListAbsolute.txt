@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.Services\bin\Debug\netcoreapp3.1\MoviesManagement.Services.deps.json
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.Services\bin\Debug\netcoreapp3.1\MoviesManagement.Services.dll
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.Services\bin\Debug\netcoreapp3.1\MoviesManagement.Services.pdb
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.Services\obj\Debug\netcoreapp3.1\MoviesManagement.Services.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.Services\obj\Debug\netcoreapp3.1\MoviesManagement.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.Services\obj\Debug\netcoreapp3.1\MoviesManagement.Services.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.Services\obj\Debug\netcoreapp3.1\MoviesManagement.Services.AssemblyInfo.cs
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.Services\obj\Debug\netcoreapp3.1\MoviesManagement.Services.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.Services\obj\Debug\netcoreapp3.1\MoviesManagement.Services.dll
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.Services\obj\Debug\netcoreapp3.1\MoviesManagement.Services.pdb
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.Services\bin\Debug\netcoreapp3.1\MoviesManagement.Data.dll
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.Services\bin\Debug\netcoreapp3.1\MoviesManagement.Domain.dll
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.Services\bin\Debug\netcoreapp3.1\MoviesManagement.Data.pdb
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.Services\bin\Debug\netcoreapp3.1\MoviesManagement.Domain.pdb
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.Services\obj\Debug\netcoreapp3.1\MoviesManagement.Services.csproj.CopyComplete

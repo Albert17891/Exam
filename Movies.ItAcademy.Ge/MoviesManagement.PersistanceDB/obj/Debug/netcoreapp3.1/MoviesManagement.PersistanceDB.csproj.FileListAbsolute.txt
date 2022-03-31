@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.PersistanceDB\bin\Debug\netcoreapp3.1\MoviesManagement.PersistanceDB.deps.json
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.PersistanceDB\bin\Debug\netcoreapp3.1\MoviesManagement.PersistanceDB.runtimeconfig.json
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.PersistanceDB\bin\Debug\netcoreapp3.1\MoviesManagement.PersistanceDB.runtimeconfig.dev.json
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.PersistanceDB\bin\Debug\netcoreapp3.1\MoviesManagement.PersistanceDB.dll
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.PersistanceDB\bin\Debug\netcoreapp3.1\MoviesManagement.PersistanceDB.pdb
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.PersistanceDB\bin\Debug\netcoreapp3.1\MoviesManagement.Domain.dll
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.PersistanceDB\bin\Debug\netcoreapp3.1\MoviesManagement.Domain.pdb
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.PersistanceDB\obj\Debug\netcoreapp3.1\MoviesManagement.PersistanceDB.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.PersistanceDB\obj\Debug\netcoreapp3.1\MoviesManagement.PersistanceDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.PersistanceDB\obj\Debug\netcoreapp3.1\MoviesManagement.PersistanceDB.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.PersistanceDB\obj\Debug\netcoreapp3.1\MoviesManagement.PersistanceDB.AssemblyInfo.cs
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.PersistanceDB\obj\Debug\netcoreapp3.1\MoviesManagement.PersistanceDB.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.PersistanceDB\obj\Debug\netcoreapp3.1\MoviesManagement.PersistanceDB.csproj.CopyComplete
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.PersistanceDB\obj\Debug\netcoreapp3.1\MoviesManagement.PersistanceDB.dll
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.PersistanceDB\obj\Debug\netcoreapp3.1\MoviesManagement.PersistanceDB.pdb
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.PersistanceDB\obj\Debug\netcoreapp3.1\MoviesManagement.PersistanceDB.genruntimeconfig.cache

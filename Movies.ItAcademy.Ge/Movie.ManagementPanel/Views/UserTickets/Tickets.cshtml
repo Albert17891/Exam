@@ -1,0 +1,49 @@
+﻿@model IEnumerable<Movies.ManagementPanel.Models.Tickets.UserTickets>
+
+@{
+    ViewData["Title"] = "Tickets";
+}
+
+<h1>ბილეთები</h1>
+
+<table class="table">
+    <thead>
+        <tr>           
+            <th>
+                <h6>დაჯავშნილი</h6>
+            </th>
+            <th>
+                 <h6>გაუქმებული</h6>
+            </th>
+            <th>
+               <h6>შეძენილი</h6>
+            </th>
+            <th>
+                <h6>მოხმარებლის სახელი</h6>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>                                                                                  
+            <td>
+                @Html.DisplayFor(modelItem => item.IsBooked)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsCanceled)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsAcquired)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserName)
+            </td>
+            <td>
+               <a asp-controller="UserTickets"  asp-action="UpdateTicket"  asp-route-Id= "@item.Id" >რედაქტირება</a>           
+                @Html.ActionLink("ბილეთის წაშლა", "DeleteTicket", new {  id=item.Id })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

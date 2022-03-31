@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.Data\bin\Debug\netcoreapp3.1\MoviesManagement.Data.deps.json
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.Data\bin\Debug\netcoreapp3.1\MoviesManagement.Data.dll
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.Data\bin\Debug\netcoreapp3.1\MoviesManagement.Data.pdb
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.Data\obj\Debug\netcoreapp3.1\MoviesManagement.Data.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.Data\obj\Debug\netcoreapp3.1\MoviesManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.Data\obj\Debug\netcoreapp3.1\MoviesManagement.Data.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.Data\obj\Debug\netcoreapp3.1\MoviesManagement.Data.AssemblyInfo.cs
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.Data\obj\Debug\netcoreapp3.1\MoviesManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.Data\obj\Debug\netcoreapp3.1\MoviesManagement.Data.dll
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.Data\obj\Debug\netcoreapp3.1\MoviesManagement.Data.pdb
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.Data\bin\Debug\netcoreapp3.1\MoviesManagement.Domain.dll
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.Data\bin\Debug\netcoreapp3.1\MoviesManagement.Domain.pdb
+C:\Users\user\source\repos\Movies.ItAcademy.Ge\MoviesManagement.Data\obj\Debug\netcoreapp3.1\MoviesManagement.Data.csproj.CopyComplete

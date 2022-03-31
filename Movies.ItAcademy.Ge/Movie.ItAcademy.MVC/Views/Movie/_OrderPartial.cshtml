@@ -1,0 +1,118 @@
+﻿@using Movies.ItAcademy.MVC.Infastructure.Info
+@using MoviesManagement.Services
+@using MoviesManagement.Services.Abstractions
+@using MoviesManagement.Services.Implementations
+@using Microsoft.AspNetCore.Identity
+@using Movies.ItAcademy.MVC.Models.DTO
+@model MovieDTO
+@inject ITicketService _service
+@inject UserManager<AppUser> UserManager
+@inject SignInManager<AppUser> SignInManager
+
+@{
+    var ticket =await _service.GetTicketByMovie(@User.Identity.Name,@Model.Id);   
+    var count = await _service.TicketCountAsync(Model.Id);
+    var activeTicket = TicketMaxCount.maxTicket - count;
+
+}
+
+
+  @if (activeTicket > 0)   @*Checks if has is a free ticket *@
+{
+    if(Model.StartTime<DateTime.Now.AddHours(1))   @*Checks can or not booked*@
+    {    
+         if(ticket!=null&&ticket.IsAcquired==true)
+         {           
+              <h6>შეძენილი</h6>
+              <a asp-action="Index">უკან</a>           
+      
+         }   
+        else
+        {
+          <form asp-action="Order" method="post"> 
+             <div class="form-group">               
+                 <input type="hidden" asp-for="Id" class="form-control" />                
+             </div>                 
+
+             <div class="form-group">           
+                <input type="submit" name="button" value="შეძენა" class="btn btn-primary">              
+                  <a asp-action="Index">უკან</a>
+             </div>
+          </form>
+        }
+   
+   }
+
+   else if (ticket==null||ticket.IsCanceled==true)    @* the ticket has canceled or it is equal null *@
+   {
+       <form asp-action="Order" method="post"> 
+         
+            <div class="form-group">               
+                <input type="hidden" asp-for="Id" class="form-control" />                
+            </div>    
+            
+            <div class="form-group">            
+               
+              <input type="submit" name="button" value="დაჯავშნა" class="btn btn-primary">
+               <input type="submit" name="button" value="შეძენა" class="btn btn-primary">
+                 <a asp-action="Index">უკან</a>
+            </div>
+       </form>       
+   }
+
+   else if(ticket.IsBooked)  @*if the ticket has booked*@
+   {
+       <form asp-action="Order"> 
+            <div class="form-group">               
+                <input type="hidden" asp-for="Id" class="form-control" />                
+            </div>            
+            
+            <div class="form-group">               
+               
+               <input type="submit" name="button" value="გაუქმება" class="btn btn-primary">
+               <input type="submit" name="button" value="შეძენა" class="btn btn-primary">
+                 <a asp-action="Index">უკან</a>
+            </div>
+       </form>
+   }
+   else if(ticket.IsAcquired)
+   {
+       <h6>შეძენილი</h6>
+        <a asp-action="Index">უკან</a>
+    }
+
+}
+      
+else if(ticket!=null&&ticket.IsCanceled==false)   @*if   you have  ticket*@
+                                  
+{
+    if (ticket.IsAcquired)  @*if   is it Aquired *@
+    {
+        <h6>შეძენილი</h6>
+        <a asp-action="Index">უკან</a>
+    }
+    else   @*if   is it Booked *@
+    {
+         <form asp-action="Order"> 
+            <div class="form-group">               
+                <input type="hidden" asp-for="Id" class="form-control" />                
+            </div>            
+            
+            <div class="form-group">               
+               
+               <input type="submit" name="button" value="გაუქმება" class="btn btn-primary">
+               <input type="submit" name="button" value="შეძენა" class="btn btn-primary">
+                 <a asp-action="Index">უკან</a>
+            </div>
+        </form>
+     }
+
+}
+
+   else
+  {
+    <h6>ბილეთი არ არის</h6>
+    <a asp-action="Index">უკან</a>
+  }
+
+

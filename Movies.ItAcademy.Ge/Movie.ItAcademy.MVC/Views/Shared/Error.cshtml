@@ -1,0 +1,32 @@
+﻿@model ErrorViewModel
+@{
+    ViewData["Title"] = "Error";
+}
+
+<h1 class="text-danger">Error.</h1>
+<h2 class="text-danger">An error occurred while processing your request.</h2>
+
+     
+@if (@Model.StatusCode == 500)
+{
+     <p>
+        <strong>StatusCode:</strong> <code>@Model.StatusCode</code>
+        <h6>Internal Server Error</h6>
+        <a href =https://datatracker.ietf.org/doc/html/rfc7231#section-6.6.1>For More Information</a>
+    </p>
+}else if (@Model.StatusCode == 404)
+{
+    <p>
+        <strong>StatusCode:</strong> <code>@Model.StatusCode</code>
+        <h6>NotFound</h6>
+        <a href=https://datatracker.ietf.org/doc/html/rfc7231#section-6.5.4>For More Information</a>
+    </p>
+}
+else
+{
+    <strong>StatusCode:</strong> <code>@Model.StatusCode</code>
+    <h6>Unknown Error</h6>
+    <h6>Call My Clerk</h6>
+}
+
+    <a asp-controller="Movie" asp-action="Index">Back</a>
