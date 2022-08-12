@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\CheckBookedWorker\\CheckBookedWorker.csproj": {}
+    "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\CheckBookedWorker\\CheckBookedWorker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\CheckBookedWorker\\CheckBookedWorker.csproj": {
+    "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\CheckBookedWorker\\CheckBookedWorker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\CheckBookedWorker\\CheckBookedWorker.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\CheckBookedWorker\\CheckBookedWorker.csproj",
         "projectName": "CheckBookedWorker",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\CheckBookedWorker\\CheckBookedWorker.csproj",
+        "projectPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\CheckBookedWorker\\CheckBookedWorker.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\CheckBookedWorker\\obj\\",
+        "outputPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\CheckBookedWorker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

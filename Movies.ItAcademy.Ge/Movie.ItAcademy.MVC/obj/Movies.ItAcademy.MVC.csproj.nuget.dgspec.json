@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\Movie.ItAcademy.MVC\\Movies.ItAcademy.MVC.csproj": {}
+    "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\Movie.ItAcademy.MVC\\Movies.ItAcademy.MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\Movie.ItAcademy.MVC\\Movies.ItAcademy.MVC.csproj": {
+    "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\Movie.ItAcademy.MVC\\Movies.ItAcademy.MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\Movie.ItAcademy.MVC\\Movies.ItAcademy.MVC.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\Movie.ItAcademy.MVC\\Movies.ItAcademy.MVC.csproj",
         "projectName": "Movies.ItAcademy.MVC",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\Movie.ItAcademy.MVC\\Movies.ItAcademy.MVC.csproj",
+        "projectPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\Movie.ItAcademy.MVC\\Movies.ItAcademy.MVC.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\Movie.ItAcademy.MVC\\obj\\",
+        "outputPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\Movie.ItAcademy.MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,20 +28,20 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.DataEF\\MoviesManagement.Data.EF.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.DataEF\\MoviesManagement.Data.EF.csproj"
+              "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.DataEF\\MoviesManagement.Data.EF.csproj": {
+                "projectPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.DataEF\\MoviesManagement.Data.EF.csproj"
               },
-              "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Data\\MoviesManagement.Data.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Data\\MoviesManagement.Data.csproj"
+              "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Data\\MoviesManagement.Data.csproj": {
+                "projectPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Data\\MoviesManagement.Data.csproj"
               },
-              "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Domain\\MoviesManagement.Domain.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Domain\\MoviesManagement.Domain.csproj"
+              "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Domain\\MoviesManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Domain\\MoviesManagement.Domain.csproj"
               },
-              "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.PersistanceDB\\MoviesManagement.PersistanceDB.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.PersistanceDB\\MoviesManagement.PersistanceDB.csproj"
+              "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.PersistanceDB\\MoviesManagement.PersistanceDB.csproj": {
+                "projectPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.PersistanceDB\\MoviesManagement.PersistanceDB.csproj"
               },
-              "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Services\\MoviesManagement.Services.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Services\\MoviesManagement.Services.csproj"
+              "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Services\\MoviesManagement.Services.csproj": {
+                "projectPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Services\\MoviesManagement.Services.csproj"
               }
             }
           }
@@ -121,18 +121,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.DataEF\\MoviesManagement.Data.EF.csproj": {
+    "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.DataEF\\MoviesManagement.Data.EF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.DataEF\\MoviesManagement.Data.EF.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.DataEF\\MoviesManagement.Data.EF.csproj",
         "projectName": "MoviesManagement.Data.EF",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.DataEF\\MoviesManagement.Data.EF.csproj",
+        "projectPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.DataEF\\MoviesManagement.Data.EF.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.DataEF\\obj\\",
+        "outputPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.DataEF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -149,8 +149,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Data\\MoviesManagement.Data.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Data\\MoviesManagement.Data.csproj"
+              "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Data\\MoviesManagement.Data.csproj": {
+                "projectPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Data\\MoviesManagement.Data.csproj"
               }
             }
           }
@@ -185,18 +185,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Data\\MoviesManagement.Data.csproj": {
+    "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Data\\MoviesManagement.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Data\\MoviesManagement.Data.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Data\\MoviesManagement.Data.csproj",
         "projectName": "MoviesManagement.Data",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Data\\MoviesManagement.Data.csproj",
+        "projectPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Data\\MoviesManagement.Data.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Data\\obj\\",
+        "outputPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -213,8 +213,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Domain\\MoviesManagement.Domain.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Domain\\MoviesManagement.Domain.csproj"
+              "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Domain\\MoviesManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Domain\\MoviesManagement.Domain.csproj"
               }
             }
           }
@@ -243,18 +243,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Domain\\MoviesManagement.Domain.csproj": {
+    "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Domain\\MoviesManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Domain\\MoviesManagement.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Domain\\MoviesManagement.Domain.csproj",
         "projectName": "MoviesManagement.Domain",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Domain\\MoviesManagement.Domain.csproj",
+        "projectPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Domain\\MoviesManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Domain\\obj\\",
+        "outputPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -303,18 +303,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.PersistanceDB\\MoviesManagement.PersistanceDB.csproj": {
+    "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.PersistanceDB\\MoviesManagement.PersistanceDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.PersistanceDB\\MoviesManagement.PersistanceDB.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.PersistanceDB\\MoviesManagement.PersistanceDB.csproj",
         "projectName": "MoviesManagement.PersistanceDB",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.PersistanceDB\\MoviesManagement.PersistanceDB.csproj",
+        "projectPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.PersistanceDB\\MoviesManagement.PersistanceDB.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.PersistanceDB\\obj\\",
+        "outputPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.PersistanceDB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -331,8 +331,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Domain\\MoviesManagement.Domain.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Domain\\MoviesManagement.Domain.csproj"
+              "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Domain\\MoviesManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Domain\\MoviesManagement.Domain.csproj"
               }
             }
           }
@@ -385,18 +385,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Services\\MoviesManagement.Services.csproj": {
+    "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Services\\MoviesManagement.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Services\\MoviesManagement.Services.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Services\\MoviesManagement.Services.csproj",
         "projectName": "MoviesManagement.Services",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Services\\MoviesManagement.Services.csproj",
+        "projectPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Services\\MoviesManagement.Services.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Services\\obj\\",
+        "outputPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -413,8 +413,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Data\\MoviesManagement.Data.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Data\\MoviesManagement.Data.csproj"
+              "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Data\\MoviesManagement.Data.csproj": {
+                "projectPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Data\\MoviesManagement.Data.csproj"
               }
             }
           }
@@ -461,7 +461,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -9661,11 +9661,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\Movies.ItAcademy.Api\\Movies.ItAcademy.Api.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\Movies.ItAcademy.Api\\Movies.ItAcademy.Api.csproj",
       "projectName": "Movies.ItAcademy.Api",
-      "projectPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\Movies.ItAcademy.Api\\Movies.ItAcademy.Api.csproj",
+      "projectPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\Movies.ItAcademy.Api\\Movies.ItAcademy.Api.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\Movies.ItAcademy.Api\\obj\\",
+      "outputPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\Movies.ItAcademy.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9682,14 +9682,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.DataEF\\MoviesManagement.Data.EF.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.DataEF\\MoviesManagement.Data.EF.csproj"
+            "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.DataEF\\MoviesManagement.Data.EF.csproj": {
+              "projectPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.DataEF\\MoviesManagement.Data.EF.csproj"
             },
-            "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.PersistanceDB\\MoviesManagement.PersistanceDB.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.PersistanceDB\\MoviesManagement.PersistanceDB.csproj"
+            "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.PersistanceDB\\MoviesManagement.PersistanceDB.csproj": {
+              "projectPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.PersistanceDB\\MoviesManagement.PersistanceDB.csproj"
             },
-            "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Services\\MoviesManagement.Services.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Services\\MoviesManagement.Services.csproj"
+            "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Services\\MoviesManagement.Services.csproj": {
+              "projectPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Services\\MoviesManagement.Services.csproj"
             }
           }
         }
@@ -9801,7 +9801,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

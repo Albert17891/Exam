@@ -855,11 +855,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.DataEF\\MoviesManagement.Data.EF.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.DataEF\\MoviesManagement.Data.EF.csproj",
       "projectName": "MoviesManagement.Data.EF",
-      "projectPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.DataEF\\MoviesManagement.Data.EF.csproj",
+      "projectPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.DataEF\\MoviesManagement.Data.EF.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.DataEF\\obj\\",
+      "outputPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.DataEF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -876,8 +876,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Data\\MoviesManagement.Data.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Data\\MoviesManagement.Data.csproj"
+            "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Data\\MoviesManagement.Data.csproj": {
+              "projectPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Data\\MoviesManagement.Data.csproj"
             }
           }
         }
@@ -912,7 +912,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EqTig673AjVOj9oGCZSflTpC3NnVuxB6g3n0g7z32DNK+7gwlwtXcotDe/72PkxDt81P1fJj7OmcR5MpJR5SrA==",
+  "dgSpecHash": "g7wwO1v6XXFKPWarGe8Nk+eo1HmTm7+wEXHw8cz6ZcnGrMBTRd1zMTlAYpzhb0zi0IFjbqrN8KYnE+7IO0Vrjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\Movies.ItAcademy.Api\\Movies.ItAcademy.Api.csproj",
+  "projectFilePath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\Movies.ItAcademy.Api\\Movies.ItAcademy.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\aspnetcore.healthchecks.ui\\3.1.2\\aspnetcore.healthchecks.ui.3.1.2.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\aspnetcore.healthchecks.ui.client\\3.1.2\\aspnetcore.healthchecks.ui.client.3.1.2.nupkg.sha512",

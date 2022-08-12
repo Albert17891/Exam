@@ -818,11 +818,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Domain\\MoviesManagement.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Domain\\MoviesManagement.Domain.csproj",
       "projectName": "MoviesManagement.Domain",
-      "projectPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Domain\\MoviesManagement.Domain.csproj",
+      "projectPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Domain\\MoviesManagement.Domain.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Domain\\obj\\",
+      "outputPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -871,7 +871,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

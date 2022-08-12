@@ -836,11 +836,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Data\\MoviesManagement.Data.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Data\\MoviesManagement.Data.csproj",
       "projectName": "MoviesManagement.Data",
-      "projectPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Data\\MoviesManagement.Data.csproj",
+      "projectPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Data\\MoviesManagement.Data.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Data\\obj\\",
+      "outputPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -857,8 +857,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Domain\\MoviesManagement.Domain.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\MoviesManagement.Domain\\MoviesManagement.Domain.csproj"
+            "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Domain\\MoviesManagement.Domain.csproj": {
+              "projectPath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\MoviesManagement.Domain\\MoviesManagement.Domain.csproj"
             }
           }
         }
@@ -887,7 +887,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NaKNEfojNGN+qLKfSfzCGnO63awyBcil/KRww5jHycXcd0C2UukL6ndC/rD9gBrShCeecaMukyfiJ8OFbDDD9A==",
+  "dgSpecHash": "Wlr/BT5Jzdvs9ZdbMX+mM8J1q3AniGAC04OEN3z14vuBKMs7u1DP5gKps0tAvyzgFbOIFIqlIiFVJoQvme9I8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\CheckBookedWorker\\CheckBookedWorker.csproj",
+  "projectFilePath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\CheckBookedWorker\\CheckBookedWorker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.22\\microsoft.extensions.configuration.3.1.22.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.22\\microsoft.extensions.configuration.abstractions.3.1.22.nupkg.sha512",

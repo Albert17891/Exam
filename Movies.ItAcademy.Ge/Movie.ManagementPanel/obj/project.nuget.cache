@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "piIgVK0PIpuaDEhtt3IUk5yPHtxvDGeqE151suU1iCqFUjoYIkNGj2881qDkPNZNxsLWqPCiteVW6XNrFRlClw==",
+  "dgSpecHash": "IlW4k28kU1GWfyS/ov4YLlunRfUzSFruBzncoFRolPT0BLLwdGHMJOggzp27YGgTpa05N0nopTJOvDO+O1QLJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\Movies.ItAcademy.Ge\\Movie.ManagementPanel\\Movies.ManagementPanel.csproj",
+  "projectFilePath": "C:\\Users\\user\\Exam\\Movies.ItAcademy.Ge\\Movie.ManagementPanel\\Movies.ManagementPanel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\mapster\\7.3.0\\mapster.7.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\mapster.core\\1.2.0\\mapster.core.1.2.0.nupkg.sha512",
