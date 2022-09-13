@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26618183-68f6-4044-ba0c-c9cb96a5b7fc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/SumArray/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumArray/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumArray/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumArray/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumArray/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumArray/FirstJavaProgram.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/.vs/Movies.ItAcademy.Ge/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/.vs/Movies.ItAcademy.Ge/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/.vs/Movies.ItAcademy.Ge/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/.vs/Movies.ItAcademy.Ge/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/CheckBookedWorker/obj/CheckBookedWorker.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/CheckBookedWorker/obj/CheckBookedWorker.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/CheckBookedWorker/obj/CheckBookedWorker.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/CheckBookedWorker/obj/CheckBookedWorker.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/CheckBookedWorker/obj/Debug/netcoreapp3.1/CheckBookedWorker.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/CheckBookedWorker/obj/Debug/netcoreapp3.1/CheckBookedWorker.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/CheckBookedWorker/obj/Debug/netcoreapp3.1/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/CheckBookedWorker/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/CheckBookedWorker/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/CheckBookedWorker/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/CheckBookedWorker/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/CheckBookedWorker/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movie.ItAcademy.MVC/Movies.ItAcademy.MVC.csproj.user" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movie.ItAcademy.MVC/Movies.ItAcademy.MVC.csproj.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movie.ItAcademy.MVC/obj/Debug/netcoreapp3.1/Movies.ItAcademy.MVC.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movie.ItAcademy.MVC/obj/Debug/netcoreapp3.1/Movies.ItAcademy.MVC.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movie.ItAcademy.MVC/obj/Debug/netcoreapp3.1/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movie.ItAcademy.MVC/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movie.ItAcademy.MVC/obj/Debug/netcoreapp3.1/project.razor.vs.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movie.ItAcademy.MVC/obj/Debug/netcoreapp3.1/project.razor.vs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movie.ItAcademy.MVC/obj/Movies.ItAcademy.MVC.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movie.ItAcademy.MVC/obj/Movies.ItAcademy.MVC.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movie.ItAcademy.MVC/obj/Movies.ItAcademy.MVC.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movie.ItAcademy.MVC/obj/Movies.ItAcademy.MVC.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movie.ItAcademy.MVC/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movie.ItAcademy.MVC/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movie.ItAcademy.MVC/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movie.ItAcademy.MVC/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movie.ManagementPanel/obj/Debug/netcoreapp3.1/Movies.ManagementPanel.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movie.ManagementPanel/obj/Debug/netcoreapp3.1/Movies.ManagementPanel.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movie.ManagementPanel/obj/Debug/netcoreapp3.1/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movie.ManagementPanel/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movie.ManagementPanel/obj/Debug/netcoreapp3.1/project.razor.vs.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movie.ManagementPanel/obj/Debug/netcoreapp3.1/project.razor.vs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movie.ManagementPanel/obj/Movies.ManagementPanel.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movie.ManagementPanel/obj/Movies.ManagementPanel.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movie.ManagementPanel/obj/Movies.ManagementPanel.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movie.ManagementPanel/obj/Movies.ManagementPanel.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movie.ManagementPanel/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movie.ManagementPanel/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movie.ManagementPanel/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movie.ManagementPanel/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movies.ItAcademy.Api/obj/Debug/netcoreapp3.1/Movies.ItAcademy.Api.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movies.ItAcademy.Api/obj/Debug/netcoreapp3.1/Movies.ItAcademy.Api.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movies.ItAcademy.Api/obj/Debug/netcoreapp3.1/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movies.ItAcademy.Api/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movies.ItAcademy.Api/obj/Debug/netcoreapp3.1/project.razor.vs.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movies.ItAcademy.Api/obj/Debug/netcoreapp3.1/project.razor.vs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movies.ItAcademy.Api/obj/Movies.ItAcademy.Api.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movies.ItAcademy.Api/obj/Movies.ItAcademy.Api.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movies.ItAcademy.Api/obj/Movies.ItAcademy.Api.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movies.ItAcademy.Api/obj/Movies.ItAcademy.Api.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movies.ItAcademy.Api/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movies.ItAcademy.Api/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movies.ItAcademy.Api/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movies.ItAcademy.Api/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movies.ItAcademy.Ge.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/Movies.ItAcademy.Ge.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.Data/obj/Debug/netcoreapp3.1/MoviesManagement.Data.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.Data/obj/Debug/netcoreapp3.1/MoviesManagement.Data.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.Data/obj/MoviesManagement.Data.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.Data/obj/MoviesManagement.Data.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.Data/obj/MoviesManagement.Data.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.Data/obj/MoviesManagement.Data.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.Data/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.Data/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.Data/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.Data/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.DataEF/obj/Debug/netcoreapp3.1/MoviesManagement.Data.EF.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.DataEF/obj/Debug/netcoreapp3.1/MoviesManagement.Data.EF.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.DataEF/obj/MoviesManagement.Data.EF.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.DataEF/obj/MoviesManagement.Data.EF.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.DataEF/obj/MoviesManagement.Data.EF.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.DataEF/obj/MoviesManagement.Data.EF.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.DataEF/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.DataEF/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.DataEF/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.DataEF/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.Domain/obj/Debug/netcoreapp3.1/MoviesManagement.Domain.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.Domain/obj/Debug/netcoreapp3.1/MoviesManagement.Domain.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.Domain/obj/MoviesManagement.Domain.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.Domain/obj/MoviesManagement.Domain.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.Domain/obj/MoviesManagement.Domain.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.Domain/obj/MoviesManagement.Domain.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.Domain/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.Domain/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.Domain/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.Domain/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.PersistanceDB/obj/Debug/netcoreapp3.1/MoviesManagement.PersistanceDB.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.PersistanceDB/obj/Debug/netcoreapp3.1/MoviesManagement.PersistanceDB.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.PersistanceDB/obj/MoviesManagement.PersistanceDB.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.PersistanceDB/obj/MoviesManagement.PersistanceDB.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.PersistanceDB/obj/MoviesManagement.PersistanceDB.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.PersistanceDB/obj/MoviesManagement.PersistanceDB.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.PersistanceDB/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.PersistanceDB/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.PersistanceDB/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.PersistanceDB/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.Services/obj/Debug/netcoreapp3.1/MoviesManagement.Services.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.Services/obj/Debug/netcoreapp3.1/MoviesManagement.Services.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.Services/obj/MoviesManagement.Services.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.Services/obj/MoviesManagement.Services.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.Services/obj/MoviesManagement.Services.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.Services/obj/MoviesManagement.Services.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.Services/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.Services/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.Services/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesManagement.Services/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesWorker/obj/Debug/netcoreapp3.1/MoviesWorker.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesWorker/obj/Debug/netcoreapp3.1/MoviesWorker.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesWorker/obj/Debug/netcoreapp3.1/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesWorker/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesWorker/obj/MoviesWorker.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesWorker/obj/MoviesWorker.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesWorker/obj/MoviesWorker.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesWorker/obj/MoviesWorker.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesWorker/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesWorker/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesWorker/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Movies.ItAcademy.Ge/MoviesWorker/obj/project.nuget.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ehw3QwrNxisBzRx6TzY2bznK7A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/user/Exam/Java Tasks"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26618183-68f6-4044-ba0c-c9cb96a5b7fc" name="Changes" comment="" />
+      <created>1663060924604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663060924604</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

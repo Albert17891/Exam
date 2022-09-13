@@ -21,7 +21,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Movies.ItAcademy.MVC", "Mov
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Movies.ManagementPanel", "Movie.ManagementPanel\Movies.ManagementPanel.csproj", "{D28546C7-B6A1-4288-AB54-737EB3B62A5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckBookedWorker", "CheckBookedWorker\CheckBookedWorker.csproj", "{92DF4D8D-CD74-4367-A87B-FA836AC5008C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckBookedWorker", "CheckBookedWorker\CheckBookedWorker.csproj", "{92DF4D8D-CD74-4367-A87B-FA836AC5008C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
